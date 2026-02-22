@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services / Oferta",
+    "section": "",
+    "text": "People data. Decisions that work.\nJestem data scientist specjalizującym się w analityce personalnej (people analytics). Pomagam działom HR i zarządom polskich firm MŚP podejmować decyzje kadrowe oparte na danych — a nie na przeczuciu.\n\nI am a data scientist specialising in people analytics. I help HR departments and management teams at Polish SMEs make workforce decisions based on data — not intuition. My approach combines statistical rigour with practical business context."
+  },
+  {
+    "objectID": "services.html#dane-o-ludziach.-decyzje-które-działają.",
+    "href": "services.html#dane-o-ludziach.-decyzje-które-działają.",
+    "title": "Services / Oferta",
+    "section": "",
+    "text": "People data. Decisions that work.\nJestem data scientist specjalizującym się w analityce personalnej (people analytics). Pomagam działom HR i zarządom polskich firm MŚP podejmować decyzje kadrowe oparte na danych — a nie na przeczuciu.\n\nI am a data scientist specialising in people analytics. I help HR departments and management teams at Polish SMEs make workforce decisions based on data — not intuition. My approach combines statistical rigour with practical business context."
+  },
+  {
+    "objectID": "services.html#czym-się-zajmuję-what-i-do",
+    "href": "services.html#czym-się-zajmuję-what-i-do",
+    "title": "Services / Oferta",
+    "section": "Czym się zajmuję / What I do",
+    "text": "Czym się zajmuję / What I do\n\nModelowanie rotacji pracowników\nEmployee Attrition Modeling\nKtóre osoby są najbardziej narażone na odejście — i dlaczego? Buduję modele predykcyjne, które nie tylko wskazują korelaty rotacji, ale pomagają zrozumieć przyczyny, na które organizacja ma realny wpływ.\n\nWhich employees are most at risk of leaving — and why? I build predictive models that go beyond identifying correlates, toward understanding the drivers of turnover that your organisation can actually influence. Includes model validation and ongoing monitoring setup.\n\n\n\nAnaliza wynagrodzeń i równości płac\nCompensation & Pay Equity Analysis\nCzy Twoje wynagrodzenia są konkurencyjne na rynku? Czy istnieją nieuzasadnione różnice w wynagrodzeniach między grupami pracowników? Buduję modele oparte na regresji i metodach przyczynowych, które dają rzetelne odpowiedzi.\n\nAre you paying competitively? Are there unexplained pay gaps between groups? I build compensation models using regression and causal methods to give you defensible, data-driven answers — the kind you can show to a board or an auditor.\n\n\n\nAnalityka procesu rekrutacji\nRecruitment Funnel Analytics\nNa którym etapie tracisz kandydatów? Które kanały rekrutacji przynoszą najlepszych pracowników? Analizuję dane rekrutacyjne, by wskazać wąskie gardła i możliwości poprawy konwersji na każdym etapie lejka.\n\nWhere are candidates dropping out of your hiring process? Which sourcing channels deliver the best hires? I analyse your recruitment data to find the leaks and opportunities — and help you prioritise what to fix first.\n\n\n\nOcena efektywności działań HR\nHR Program Evaluation\nCzy ten program onboardingowy, szkolenie lub zmiana polityki HR naprawdę przyniosły efekty? Używając metod wnioskowania przyczynowego, pomagam odpowiedzieć na to pytanie rzetelnie — nawet jeśli odpowiedź brzmi „nie”.\n\nDid that onboarding programme, training initiative, or policy change actually work? Using causal inference methods (diff-in-diff, synthetic control, Double ML), I can help you answer that question honestly — including when the answer is “no.” Honest evaluation is more valuable than confirmation.\n\n\n\nDashboardy i raportowanie HR\nHR Dashboards & Reporting\nPraktyczne, dobrze zaprojektowane dashboardy w PowerBI lub Pythonie (Streamlit / Dash), z których Twój zespół HR będzie naprawdę korzystał. Budowane wokół Twoich kluczowych metryk kadrowych — nie gotowych szablonów.\n\nPractical, well-designed dashboards in PowerBI or Python that your HR team will actually use. Built around your key workforce metrics, with clear definitions and sensible drill-downs. Not generic templates."
+  },
+  {
+    "objectID": "services.html#dlaczego-warto-why-work-with-me",
+    "href": "services.html#dlaczego-warto-why-work-with-me",
+    "title": "Services / Oferta",
+    "section": "Dlaczego warto / Why work with me",
+    "text": "Dlaczego warto / Why work with me\n\nStatystyczna rzetelność — wyniki, które można obronić przed zarządem i audytorami. Statistical rigour — results you can defend to the board and auditors.\nMyślenie przyczynowe — skupiam się na tym, co można zmienić, nie tylko na tym, co się koreluje. Causal thinking — I focus on what you can change, not just what correlates.\nKontekst biznesowy — znam realia HR w polskich firmach z doświadczenia w sektorze bankowym. Business context — I understand HR realities in Polish companies from direct industry experience.\nBez zbędnego żargonu — wyniki w języku zrozumiałym dla HR i zarządu. No unnecessary jargon — results in language that HR and management can understand and act on."
+  },
+  {
+    "objectID": "services.html#zacznijmy-rozmowę-lets-talk",
+    "href": "services.html#zacznijmy-rozmowę-lets-talk",
+    "title": "Services / Oferta",
+    "section": "Zacznijmy rozmowę / Let’s talk",
+    "text": "Zacznijmy rozmowę / Let’s talk\nNapisz do mnie — pierwsza rozmowa jest bezpłatna i niezobowiązująca.\nGet in touch — the first conversation is free and non-binding.\nSkontaktuj się / Contact me"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jakub Szajner",
+    "section": "",
+    "text": "I help HR teams and business leaders make better workforce decisions — through attrition modeling, compensation analytics, and causal evaluation of HR programs. Based in Gdańsk, Poland.\n\n\nGitHub LinkedIn Email"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Jakub Szajner",
+    "section": "About",
+    "text": "About\nI’m a data scientist specialising in people analytics and workforce intelligence, currently working in the banking industry in Gdańsk, Poland. My background spans econometrics, applied statistics, and machine learning, with a focus on producing insights that hold up under scrutiny — not just in a Jupyter notebook, but in front of a management board.\nMy differentiator: I care about causality, not just correlation. Knowing that two things move together is rarely useful if you want to know whether an intervention will work.\nBackground: BSc/MSc in Informatics & Econometrics · 2 years as Data Analyst · ~1 year as Data Scientist Domain: HR analytics · attrition modeling · compensation analysis · recruitment analytics Stack: Python · R · SQL · PowerBI · Git"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Jakub Szajner",
+    "section": "Recent Posts",
+    "text": "Recent Posts\n\nNo posts yet — first articles are in progress.\nGo to Blog →"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects / Projekty",
+    "section": "",
+    "text": "A portfolio of people analytics and data science projects. All code is open-source on GitHub.\n\n\nAttrition Prediction on IBM HR Data\n\nPython · scikit-learn · pandas · causal framing\n\nPredicting employee attrition using the IBM HR Analytics dataset. The focus is on interpretability and causal framing — not raw accuracy. Compares logistic regression, random forest, and doubly-robust estimation, with SHAP-based explanations.\n\nCode (coming soon)\n\n\nDouble ML for HR Program Evaluation\n\nR · DoubleML · tidyverse · causal inference\n\nEstimating the causal effect of HR interventions (training programmes, compensation changes) using the Double Machine Learning framework. Includes a practical walkthrough with simulated HR data and sensitivity analysis via partial identification.\n\nCode (coming soon)\n\n\n\nMore projects in progress. Follow on GitHub for updates."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact / Kontakt",
+    "section": "",
+    "text": "Napisz do mnie bezpośrednio lub wypełnij poniższy formularz. Pierwsza rozmowa jest bezpłatna i niezobowiązująca.\nReach out directly or use the form below. The first conversation is free and non-binding."
+  },
+  {
+    "objectID": "contact.html#formularz-kontaktowy-contact-form",
+    "href": "contact.html#formularz-kontaktowy-contact-form",
+    "title": "Contact / Kontakt",
+    "section": "Formularz kontaktowy / Contact Form",
+    "text": "Formularz kontaktowy / Contact Form\n\n\n\n  Imię i nazwisko / Name\n  \n\n  Email\n  \n\n  Firma / Organization\n  \n\n  Wiadomość / Message\n  \n\n  Wyślij / Send"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Technical writing on people analytics, causal inference, and applied data science for HR. Articles are in English.\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
