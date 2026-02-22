@@ -1,0 +1,125 @@
+---
+title: "Services / Oferta"
+toc: true
+toc-title: "Usługi"
+---
+
+## Dane o ludziach. Decyzje, które działają.
+
+*People data. Decisions that work.*
+
+Jestem data scientist specjalizującym się w **analityce personalnej** (*people analytics*).
+Pomagam działom HR i zarządom polskich firm MŚP podejmować decyzje kadrowe oparte na
+danych — a nie na przeczuciu.
+
+::: {.service-en}
+I am a data scientist specialising in people analytics. I help HR departments and management
+teams at Polish SMEs make workforce decisions based on data — not intuition. My approach
+combines statistical rigour with practical business context.
+:::
+
+---
+
+## Czym się zajmuję / What I do
+
+::: {.service-block}
+### Modelowanie rotacji pracowników
+*Employee Attrition Modeling*
+
+Które osoby są najbardziej narażone na odejście — i dlaczego? Buduję modele predykcyjne,
+które nie tylko wskazują korelaty rotacji, ale pomagają zrozumieć przyczyny, na które
+organizacja ma realny wpływ.
+
+::: {.service-en}
+Which employees are most at risk of leaving — and why? I build predictive models that go
+beyond identifying correlates, toward understanding the drivers of turnover that your
+organisation can actually influence. Includes model validation and ongoing monitoring setup.
+:::
+:::
+
+::: {.service-block}
+### Analiza wynagrodzeń i równości płac
+*Compensation & Pay Equity Analysis*
+
+Czy Twoje wynagrodzenia są konkurencyjne na rynku? Czy istnieją nieuzasadnione różnice
+w wynagrodzeniach między grupami pracowników? Buduję modele oparte na regresji i metodach
+przyczynowych, które dają rzetelne odpowiedzi.
+
+::: {.service-en}
+Are you paying competitively? Are there unexplained pay gaps between groups? I build
+compensation models using regression and causal methods to give you defensible, data-driven
+answers — the kind you can show to a board or an auditor.
+:::
+:::
+
+::: {.service-block}
+### Analityka procesu rekrutacji
+*Recruitment Funnel Analytics*
+
+Na którym etapie tracisz kandydatów? Które kanały rekrutacji przynoszą najlepszych
+pracowników? Analizuję dane rekrutacyjne, by wskazać wąskie gardła i możliwości poprawy
+konwersji na każdym etapie lejka.
+
+::: {.service-en}
+Where are candidates dropping out of your hiring process? Which sourcing channels deliver
+the best hires? I analyse your recruitment data to find the leaks and opportunities — and
+help you prioritise what to fix first.
+:::
+:::
+
+::: {.service-block}
+### Ocena efektywności działań HR
+*HR Program Evaluation*
+
+Czy ten program onboardingowy, szkolenie lub zmiana polityki HR naprawdę przyniosły efekty?
+Używając metod wnioskowania przyczynowego, pomagam odpowiedzieć na to pytanie rzetelnie —
+nawet jeśli odpowiedź brzmi „nie".
+
+::: {.service-en}
+Did that onboarding programme, training initiative, or policy change actually work? Using
+causal inference methods (diff-in-diff, synthetic control, Double ML), I can help you answer
+that question honestly — including when the answer is "no." Honest evaluation is more valuable
+than confirmation.
+:::
+:::
+
+::: {.service-block}
+### Dashboardy i raportowanie HR
+*HR Dashboards & Reporting*
+
+Praktyczne, dobrze zaprojektowane dashboardy w PowerBI lub Pythonie (Streamlit / Dash),
+z których Twój zespół HR będzie naprawdę korzystał. Budowane wokół Twoich kluczowych metryk
+kadrowych — nie gotowych szablonów.
+
+::: {.service-en}
+Practical, well-designed dashboards in PowerBI or Python that your HR team will actually use.
+Built around your key workforce metrics, with clear definitions and sensible drill-downs.
+Not generic templates.
+:::
+:::
+
+---
+
+## Dlaczego warto / Why work with me
+
+- **Statystyczna rzetelność** — wyniki, które można obronić przed zarządem i audytorami.
+  *Statistical rigour — results you can defend to the board and auditors.*
+
+- **Myślenie przyczynowe** — skupiam się na tym, co można zmienić, nie tylko na tym, co się koreluje.
+  *Causal thinking — I focus on what you can change, not just what correlates.*
+
+- **Kontekst biznesowy** — znam realia HR w polskich firmach z doświadczenia w sektorze bankowym.
+  *Business context — I understand HR realities in Polish companies from direct industry experience.*
+
+- **Bez zbędnego żargonu** — wyniki w języku zrozumiałym dla HR i zarządu.
+  *No unnecessary jargon — results in language that HR and management can understand and act on.*
+
+---
+
+## Zacznijmy rozmowę / Let's talk
+
+Napisz do mnie — pierwsza rozmowa jest bezpłatna i niezobowiązująca.
+
+*Get in touch — the first conversation is free and non-binding.*
+
+[Skontaktuj się / Contact me](contact.qmd){.btn .btn-primary}

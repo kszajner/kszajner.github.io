@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+# Freeze computation results so code only re-runs when source changes.
+# IMPORTANT: Commit the _freeze/ directory to git — it is required by GitHub Actions.
+execute:
+  freeze: auto
+
+website:
+  title: "Jakub Szajner"
+  description: "People Data Scientist — HR analytics, attrition modeling, causal inference for workforce decisions"
+  site-url: "https://kszajner.github.io"
+
+  # ── Navigation ──────────────────────────────────────────────────────────────
+  navbar:
+    title: "Jakub Szajner"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Projects / Projekty"
+        href: projects/index.qmd
+      - text: "Services / Oferta"
+        href: services.qmd
+      - text: "Contact / Kontakt"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/kszajner
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kszajner
+        aria-label: LinkedIn
+
+  # ── Footer ───────────────────────────────────────────────────────────────────
+  page-footer:
+    left: "© 2026 Jakub Szajner · People Data Scientist · Gdańsk, Poland"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+  # ── Open Graph (social sharing previews) ─────────────────────────────────────
+  open-graph:
+    title: "Jakub Szajner — People Data Scientist"
+    description: "HR analytics, attrition modeling, and causal inference for workforce decisions."
+
+# ── Default HTML output settings ─────────────────────────────────────────────
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    code-fold: true
+    highlight-style: github
+    link-external-newwindow: true
+    link-external-icon: true

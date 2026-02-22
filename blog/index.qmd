@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories, reading-time]
+  feed: true
+page-layout: article
+toc: false
+---
+
+Technical writing on people analytics, causal inference, and applied data science for HR.
+Articles are in English.

@@ -1,0 +1,18 @@
+---
+title: "Placeholder"
+date: "2026-02-22"
+description: "Placeholder post — not published."
+draft: true
+---
+
+<!-- TODO: Delete this directory and replace with real posts.
+     Each post lives in its own subdirectory:
+       blog/posts/YYYY-MM-DD-slug/index.qmd
+
+     Required front matter for a post:
+       title: "..."
+       date: "YYYY-MM-DD"
+       description: "One-sentence summary shown in listing."
+       categories: [people-analytics, causal-inference]  # optional
+
+     After adding a post, run `quarto render` locally and commit the _freeze/ directory. -->

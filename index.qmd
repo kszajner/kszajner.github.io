@@ -1,0 +1,48 @@
+---
+pagetitle: "Jakub Szajner — People Data Scientist"
+page-layout: article
+toc: false
+---
+
+::: {.hero-section}
+
+# Jakub Szajner {.hero-title}
+
+### People Data Scientist {.hero-subtitle}
+
+::: {.hero-lead}
+I help HR teams and business leaders make better workforce decisions — through attrition
+modeling, compensation analytics, and causal evaluation of HR programs.
+Based in Gdańsk, Poland.
+:::
+
+::: {.hero-links}
+[GitHub](https://github.com/kszajner){.btn .btn-primary .me-2}
+[LinkedIn](https://www.linkedin.com/in/kszajner){.btn .btn-outline-primary .me-2}
+[Email](mailto:TODO@email.com){.btn .btn-outline-secondary}
+:::
+
+:::
+
+## About
+
+I'm a data scientist specialising in people analytics and workforce intelligence, currently
+working in the banking industry in Gdańsk, Poland. My background spans econometrics, applied
+statistics, and machine learning, with a focus on producing insights that hold up under
+scrutiny — not just in a Jupyter notebook, but in front of a management board.
+
+My differentiator: I care about **causality**, not just correlation. Knowing that two things
+move together is rarely useful if you want to know whether an intervention will work.
+
+**Background:** BSc/MSc in Informatics & Econometrics · 2 years as Data Analyst · ~1 year as Data Scientist
+**Domain:** HR analytics · attrition modeling · compensation analysis · recruitment analytics
+**Stack:** Python · R · SQL · PowerBI · Git
+
+## Recent Posts
+
+<!-- TODO: Replace this placeholder once posts are live.
+     Consider replacing with a Quarto listing: listing: {contents: blog/posts, max-items: 3} -->
+
+*No posts yet — first articles are in progress.*
+
+[Go to Blog →](blog/index.qmd){.btn .btn-sm .btn-outline-primary}

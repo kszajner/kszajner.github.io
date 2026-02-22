@@ -1,0 +1,44 @@
+---
+title: "Projects / Projekty"
+toc: false
+---
+
+A portfolio of people analytics and data science projects. All code is open-source on GitHub.
+
+::: {.project-grid}
+
+::: {.project-card}
+### Attrition Prediction on IBM HR Data
+
+::: {.project-tech}
+Python · scikit-learn · pandas · causal framing
+:::
+
+Predicting employee attrition using the IBM HR Analytics dataset. The focus is on
+interpretability and causal framing — not raw accuracy. Compares logistic regression,
+random forest, and doubly-robust estimation, with SHAP-based explanations.
+
+<!-- TODO: Replace href with real GitHub repo link when published -->
+[Code (coming soon)](#){.btn .btn-sm .btn-outline-primary disabled="true" aria-disabled="true"}
+:::
+
+::: {.project-card}
+### Double ML for HR Program Evaluation
+
+::: {.project-tech}
+R · DoubleML · tidyverse · causal inference
+:::
+
+Estimating the causal effect of HR interventions (training programmes, compensation changes)
+using the Double Machine Learning framework. Includes a practical walkthrough with simulated
+HR data and sensitivity analysis via partial identification.
+
+<!-- TODO: Replace href with real GitHub repo link when published -->
+[Code (coming soon)](#){.btn .btn-sm .btn-outline-primary disabled="true" aria-disabled="true"}
+:::
+
+:::
+
+---
+
+*More projects in progress. Follow on [GitHub](https://github.com/kszajner) for updates.*

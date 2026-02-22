@@ -1,0 +1,252 @@
+/*-- scss:defaults --*/
+
+// ============================================================
+// Colour palette
+// Primary accent: #0000a0 (royal/navy blue)
+// Background: white; text: near-black; borders: soft grey
+// ============================================================
+
+$primary:           #0000a0;
+$link-color:        #0000a0;
+
+// Navbar — solid accent blue, white text
+$navbar-bg:         #0000a0;
+$navbar-fg:         #ffffff;
+$navbar-hl:         #d0d0f0;   // active/hover highlight
+
+// Body
+$body-color:        #2d2d2d;
+$body-bg:           #ffffff;
+
+// Headings (near-black, distinct from link/accent blue)
+$headings-color:    #111111;
+
+// Borders
+$border-color:      #e0e0e0;
+
+// Inline code
+$code-bg:           #f4f4f8;
+$code-color:        #1a1a6e;
+
+// Typography — clean system stack
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif;
+$font-size-base:    1rem;
+$line-height-base:  1.7;
+
+
+/*-- scss:rules --*/
+
+// ============================================================
+// Navbar
+// ============================================================
+
+.navbar {
+  border-bottom: 2px solid #000080;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+// ============================================================
+// Hero section  (home page — index.qmd)
+// ============================================================
+
+.hero-section {
+  padding: 4rem 0 3rem;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 2.5rem;
+}
+
+.hero-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  color: #0000a0;
+  margin-bottom: 0.2rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #555555;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.hero-lead {
+  font-size: 1.05rem;
+  max-width: 620px;
+  color: #2d2d2d;
+  line-height: 1.75;
+  margin-bottom: 2rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+// ============================================================
+// Section headings — accent underline on h2
+// ============================================================
+
+h2 {
+  border-bottom: 2px solid #0000a0;
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+// ============================================================
+// Project card grid  (projects/index.qmd)
+// ============================================================
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  border: 1px solid #e0e0e0;
+  border-top: 3px solid #0000a0;
+  border-radius: 4px;
+  padding: 1.5rem;
+  background: #fafafa;
+  transition: box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 160, 0.12);
+}
+
+.project-card h3 {
+  font-size: 1.05rem;
+  margin-top: 0;
+  color: #0000a0;
+}
+
+.project-tech {
+  font-size: 0.82rem;
+  color: #666666;
+  margin-bottom: 0.75rem;
+  font-style: italic;
+}
+
+// ============================================================
+// Services page — bilingual blocks  (services.qmd)
+// ============================================================
+
+.service-block {
+  border-left: 3px solid #0000a0;
+  padding-left: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.service-block h3 {
+  color: #0000a0;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+// English secondary text shown below Polish
+.service-en {
+  font-size: 0.92rem;
+  color: #666666;
+  margin-top: 0.25rem;
+}
+
+// ============================================================
+// Contact form  (contact.qmd)
+// ============================================================
+
+.contact-form {
+  max-width: 560px;
+  margin-top: 1.5rem;
+}
+
+.contact-form label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  color: #2d2d2d;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 1rem;
+  color: #2d2d2d;
+  background: #ffffff;
+  box-sizing: border-box;
+  margin-bottom: 1.25rem;
+  transition: border-color 0.15s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #0000a0;
+  box-shadow: 0 0 0 2px rgba(0, 0, 160, 0.12);
+}
+
+.contact-form textarea {
+  min-height: 140px;
+  resize: vertical;
+}
+
+.contact-form button[type="submit"] {
+  background: #0000a0;
+  color: #ffffff;
+  border: none;
+  padding: 0.65rem 2rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.contact-form button[type="submit"]:hover {
+  background: #000080;
+}
+
+// ============================================================
+// Footer
+// ============================================================
+
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.88rem;
+  color: #888888;
+}
+
+// ============================================================
+// Code blocks
+// ============================================================
+
+pre.sourceCode {
+  background: #f4f4f8;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+
+code {
+  color: #1a1a6e;
+  background: #f0f0f8;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  color: inherit;
+}

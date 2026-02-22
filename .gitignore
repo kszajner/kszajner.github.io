@@ -1,0 +1,28 @@
+# Claude Code instructions — local only, not for the public repo
+CLAUDE.md
+
+# Quarto local build output — not needed in the source repo
+_site/
+
+# NOTE: Do NOT ignore _freeze/ — it must be committed so that
+# GitHub Actions can use cached computation results without re-running
+# Python/R code. Run `quarto render` locally and commit _freeze/.
+
+# R
+renv/library/
+.Rprofile
+*.Rproj
+.Rproj.user/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/settings.json
