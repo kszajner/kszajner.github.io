@@ -17,9 +17,9 @@ Based in Gdańsk, Poland.
 :::
 
 ::: {.hero-links}
-[GitHub](https://github.com/kszajner){.btn .btn-primary .me-2}
-[LinkedIn](https://www.linkedin.com/in/kszajner){.btn .btn-outline-primary .me-2}
-[Email](mailto:TODO@email.com){.btn .btn-outline-secondary}
+[<i class="bi bi-github"></i> GitHub](https://github.com/kszajner){.btn .btn-primary .me-2}
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/kszajner){.btn .btn-outline-primary .me-2}
+[<i class="bi bi-envelope"></i> Email](mailto:TODO@email.com){.btn .btn-outline-secondary}
 :::
 
 :::
@@ -35,8 +35,15 @@ My differentiator: I care about **causality**, not just correlation. Knowing tha
 move together is rarely useful if you want to know whether an intervention will work.
 
 **Background:** BSc/MSc in Informatics & Econometrics · 2 years as Data Analyst · ~1 year as Data Scientist
+
 **Domain:** HR analytics · attrition modeling · compensation analysis · recruitment analytics
-**Stack:** Python · R · SQL · PowerBI · Git
+
+**Stack:**
+<span class="tech-badge">Python</span>
+<span class="tech-badge">R</span>
+<span class="tech-badge">SQL</span>
+<span class="tech-badge">PowerBI</span>
+<span class="tech-badge">Git</span>
 
 ## Recent Posts
 
